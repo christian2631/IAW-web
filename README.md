@@ -37,3 +37,5 @@ git push origin rama2
 
 ## Captura del Proyecto
 ![Imagen del proyecto](<images/Epstien prime.png>)
+
+*Maduro contra elon musk.*
